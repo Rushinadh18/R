@@ -1,0 +1,1 @@
+print(paste("hi my name is",sep=" ", readline("what is your name" )))
